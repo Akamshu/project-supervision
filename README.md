@@ -1,4 +1,4 @@
-## Diploma Thesis Management System
+## Diploma Project Supervision System
 
 Installation steps:
 
